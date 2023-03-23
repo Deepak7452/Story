@@ -1,1 +1,0 @@
-Staging Area --> we used [ git add ] to push it into staging area
